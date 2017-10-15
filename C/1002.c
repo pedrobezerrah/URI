@@ -1,5 +1,5 @@
-#include<stdio.h>
 //This program is going to calculate the area of a circle.
+#include<stdio.h>
 int main(void){
     double A,R,n=3.14159;
     scanf("%lf", &R);

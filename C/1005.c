@@ -1,5 +1,5 @@
-#include<stdio.h>
 //This program is goint to calculate the average between A and B.
+#include<stdio.h>
 int main(void){
     double A,B,MEDIA;
     scanf("%lf", &A);
